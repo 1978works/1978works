@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1978works
+- 👋 Hi, I’m 1978works
 - 👀 I’m interested in Web Design and DataScience.
 - 🌱 I’m currently learning Python, css, and Javascript with React
 - 💞️ I’m looking to collaborate on ...
